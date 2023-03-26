@@ -1,4 +1,4 @@
-docu  menting   alaska   albert   albino   album    
+acrobat  africa   alaska   albert   albino   album    
 alcohol  alex     alpha    amadeus  amanda   amazon   
 america  analog   animal   antenna  antonio  apollo   
 april    aroma    artist   aspirin  athlete  atlas    
@@ -270,4 +270,4 @@ android  annex    armani   cake     confide  deal
 define   dispute  genuine  idiom    impress  include  
 ironic   null     nurse    obscure  prefer   prodigy  
 ego      fax      jet      job      rio      ski      
-yes 
+yes      docu     menting
