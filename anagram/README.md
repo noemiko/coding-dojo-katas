@@ -8,6 +8,12 @@
 cargo run
 cargo test
 ```
+to profile app
+```
+cargo install flamegraph
+cargo flamegraph --dev
+cargo uninstall flamegraph
+```
 
 
 ## Source
